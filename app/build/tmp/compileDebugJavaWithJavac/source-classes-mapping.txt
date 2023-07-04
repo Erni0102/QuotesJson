@@ -1,0 +1,6 @@
+com/example/erni/myquote/databinding/ActivityListQuotesBinding.java
+ com.example.erni.myquote.databinding.ActivityListQuotesBinding
+com/example/erni/myquote/BuildConfig.java
+ com.example.erni.myquote.BuildConfig
+com/example/erni/myquote/databinding/ActivityMainBinding.java
+ com.example.erni.myquote.databinding.ActivityMainBinding
